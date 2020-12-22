@@ -39,5 +39,9 @@
                  ],
     "Twilight" : "ace/theme/twilight",
     "Vibrant Ink" : "ace/theme/vibrant_ink",
-    "Xcode" : "ace/theme/xcode"
+    "Xcode" : "ace/theme/xcode",
+    "Moonlight" :  [
+                    {"Moonlight" : "ace/theme/moonlight"},
+                    {"Moonlight II" : "ace/theme/moonlightii"}
+                 ]
 }
